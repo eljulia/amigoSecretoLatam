@@ -39,7 +39,7 @@ Este es un proyecto web para realizar un sorteo de "Amigo Secreto" de manera int
 3. Se mostrará aleatoriamente uno de los nombres ingresados como resultado del sorteo.
 
 ## Captura de pantalla
-![image](https://github.com/user-attachments/assets/bef9bbbe-015e-4b89-8d55-77d3162e3576)
+![image](https://github.com/user-attachments/assets/2029203b-a1db-4b7d-afa9-ca976797a2a4)
 
 
 
